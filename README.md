@@ -56,7 +56,7 @@ graph TD
     C --> D[Albumentations Augmentations]
     D --> E[PyTorch DataLoaders: Batch 32]
     E --> F[LeNet Custom CNN Model]
-    F --> G[Classification: Parasitized (0) / Uninfected (1)]
+    F --> G["Classification: Parasitized (0) / Uninfected (1)"]
 ```
 
 #### Preprocessing & Augmentations Applied (via Albumentations):
