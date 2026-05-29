@@ -162,7 +162,7 @@ Follow the code blocks to step through:
 MalariaDiseaseImageDetection/
 │
 ├── Malaria_Detection.ipynb        # Main PyTorch Jupyter Notebook containing code & logs
-├── README.md                      # Professional project documentation (This file)
+├── README.md                      # Project documentation 
 │
 └── archive/                       # Directory containing dataset samples and cache
 ```
